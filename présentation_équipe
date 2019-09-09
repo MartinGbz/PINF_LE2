@@ -1,0 +1,24 @@
+Nous sommes une équipe de six élèves ingénieurs en 2ème année, à Centrale Lille – IG2I, Ecole d’Ingénieur 
+en Génie Informatique et Informatique Industrielle située à Lens (https://ig2i.centralelille.fr/). 
+Notre équipe est composée de six membres Sébastien BULTE (Chef de Projet), Martin GRABARZ (Responsable Communication École), 
+Robin GUEBLE (Administrateur), Clément JACQUEMONT (Responsable Communication Client), Valentin GOSSELIN (Responsable Communication Client) 
+et Ziyad HAMDANI (Administrateur).
+ 
+Etant en deuxième année du cursus, nous devons effectuer un projet informatique mettant en œuvre nos connaissances sur les différents 
+langages de programmation (C, Java, PHP), langages du web et langage de gestion de données (HTML, CSS, JavaScript, MySQL).
+Ce projet devra être réalisé entre septembre 2019 et mars 2020. L’équipe est accompagnée tout au long de ce projet par des enseignants 
+de l’IG2I ainsi que par des rendez-vous avec le client afin de répondre au mieux à ses attentes.
+ Nous nous sommes tournés vers votre entreprise puisque nous sommes personnellement des usagers des transports en commun de la 
+ communauté urbaine d’Arras et nous avons remarqué que vous ne possédiez pas encore d’une application mobile, à l’instar des autres 
+ réseaux de transports publics de la région (exemples). Nous nous proposons de vous réaliser une application Android qui permettrait 
+ aux usagers de simplifier leur déplacement. 
+
+L’application permettrait à l’usager de :
+-> Visualiser sur une carte interactive les arrêts de bus ainsi que les lignes qui les desservent avec pour chaque station des informations 
+concernant les prochains horaires de passages.
+-> Définir des itinéraires qui pour un point de départ et d’arrivée, une date et un mode de transport propose à l’usager différent types 
+d’itinéraires détaillés et d’offrir la possibilité d’enregistrer des trajets favoris.
+-> Accéder aux plans du réseau et aux fiches horaires des différentes lignes via le numéro de ligne ou le nom de la station, et enregistrer 
+des adresses ou des arrêts de bus favoris.
+-> Accéder aux informations liées à l’info-trafic et aux déviations mises en place sur le réseau.
+-> Visualiser les tarifs et les modalités des tickets et des abonnements de la boutique.
